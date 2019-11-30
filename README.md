@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5f5a486b-6bc6-4ce7-8d23-c47937dca4f2/deploy-status)](https://app.netlify.com/sites/boring-hoover-2e2f4a/deploys)
 
+https://boring-hoover-2e2f4a.netlify.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
